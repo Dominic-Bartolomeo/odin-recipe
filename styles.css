@@ -1,0 +1,58 @@
+html {
+    background-color: #333233;
+}
+
+.title{
+    font-size: 64px;
+    margin-top: 0px;
+    text-align: center;
+    
+}
+
+button:hover {
+    background-color: white;
+}
+
+button {
+    height: 100px;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 10px;
+    background-color:#5c5c5c;
+    border-radius: 16px;
+}
+
+#list {
+    font-weight: bold;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    list-style-type: none;
+}
+
+#goulash { 
+    background-image: url(./imgs/goulash.jpg);
+    background-size: cover;
+    background-position: center;
+    font-weight: bold;
+}
+
+#pancakes { 
+    background-image: url(./imgs/pancake.jpg);
+    background-size: cover;
+    background-position: center;
+    font-weight: bold;
+}
+
+#bufwings { 
+    background-image: url(./imgs/bufwings.jpg);
+    background-size: cover;
+    background-position: center;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
